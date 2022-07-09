@@ -1,7 +1,12 @@
 #include<stdlib.h>
 #include<conio.h>
-void main
+#include<iostream>
+
+using namespace std;
+int main()
 {
-    cout<<"\n Hello World";
+    cout<<"Hello world";
+    return 0;
 }
+
 

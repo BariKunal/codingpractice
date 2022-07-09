@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-void main
+void main()
 {
     printf("\n\t Hello World");
 }
