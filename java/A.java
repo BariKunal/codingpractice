@@ -1,4 +1,5 @@
-public class  A
+#calculate the CGPA
+ipublic class  A
 {
     public static void main( String [] args)  {
         float subject1 = 90;
